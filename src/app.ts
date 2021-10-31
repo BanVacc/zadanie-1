@@ -6,6 +6,4 @@ io.on('connection', client => {
 });
 server.listen(3000);
 
-console.log('commit1')
-
-console.log('commit2')
+// 123

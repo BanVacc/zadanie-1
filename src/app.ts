@@ -5,3 +5,5 @@ io.on('connection', client => {
   client.on('disconnect', () => { /* … */ });
 });
 server.listen(3000);
+
+console.log('commit1')
